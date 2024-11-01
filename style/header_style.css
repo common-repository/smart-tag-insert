@@ -1,0 +1,31 @@
+#sti_logo {
+	float: right; 
+	margin-bottom: 3px; 
+	text-align: center;
+	width: 150px;
+}
+#sti_logo img {
+	width: 120px;
+}
+#sti_logo_caption {
+	text-transform: uppercase; 
+	font-size: smaller; 
+	margin-top: -5px;
+	text-align: center;
+}
+#sti_logo_caption a, #sti_logo_caption a:link, #sti_logo_caption a:visited {
+	color: inherit;
+}
+#sti_header {
+	float: left; 
+	width: 80%;
+	margin-bottom: 5px;
+}
+#sti_header_links {
+	float: right; 
+	color: #777;
+	margin-top: 5px;
+}
+#sti_header_text {
+	float: left;
+}

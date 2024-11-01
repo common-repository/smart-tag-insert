@@ -1,0 +1,83 @@
+#side-info-column {
+	width: 49%;
+}
+.inner-sidebar #side-sortables {
+	width: 100%;
+}
+.has-right-sidebar #post-body-content {
+	width: 49%;
+	margin-right: 390px;
+}
+.has-right-sidebar #post-body {
+	margin-right: -50%;
+}
+#post-body #normal-sortables {
+	width: 100%;
+}
+.sti_section {
+    border-left-width: 1px;
+    border-left-style: dashed;
+    border-left-color: gray;
+    padding-left: 10px;
+    margin-bottom: 2.2em;
+}
+.sti_section .sti_title {
+	font-weight: bold;
+	text-align: left;
+	margin-bottom: -5px;
+	margin-top: 20px;
+}
+.sti_section .sti_content {
+    margin-left: 1.5em;
+}
+.sti_section .sti_field_value {
+    margin-left: 1.5em;
+}
+.sti_section input[type="text"] {
+    float: right;
+	background-color: #eee;
+	margin-right: 2em;
+}
+.sti_section td {
+    width: 50%;
+}
+.sti_tooltip {
+	float: right;
+	width: 20px;
+	text-align: right;
+}
+.sti_save_settings {
+    float: right;
+    width: 10%;
+}
+.sti_save_settings input {
+    float: right;
+}
+.sti_align_right {
+	float: right;
+}
+.sti_ajax_loader {
+    display: none;
+    float: left;
+    margin-right: 5px;
+}
+.sti_save_success {
+    display: none;
+    float: left;
+    width: 80%;
+    padding: 5px;
+    background: #BCED91;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #567E3A;
+}
+.sti_save_error {
+    display: none;
+    float: left;
+    width: 80%;
+    padding: 5px;
+    background: #FF6060;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #C12B45;
+}
